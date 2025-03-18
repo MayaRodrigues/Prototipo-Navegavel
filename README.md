@@ -34,14 +34,12 @@ Este projeto apresenta um protótipo desenvolvido no Figma para um aplicativo m�
      * Perfil do usuário (ícone de pessoa).
      * Menu adicional (ícone de menu).
 
-# Desenvolvimento:
-
 
 # Como visualizar o prototipo:
 
 Para visualizar o prototipo pode ser acessado por duas formas, o Explorar onde é possivel ver o projeto funcionando o navegavel para ter a experiencia do usuario e a parte com o wireframe.
-* Prototipo:
-* Explorar: 
+* Prototipo: https://www.figma.com/design/mGCn7f1WV3qXQ8PC2QQVKj/curso-figma?node-id=17-11&t=6Uc2QbfvdVa7duH6-1
+* Explorar: https://www.figma.com/proto/mGCn7f1WV3qXQ8PC2QQVKj/curso-figma?page-id=17%3A11&node-id=102-35&viewport=-473%2C280%2C0.39&t=BlcS0Zk7KbV3ZN8w-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=102%3A35
 
 
 # Imagens do projeto: 
@@ -54,12 +52,12 @@ Para visualizar o prototipo pode ser acessado por duas formas, o Explorar onde �
 
 ###### Design System:
 <h5 align="center">
-  <img alt="Design System" title="#Design System" src="" />
+  <img alt="Design System" title="#Design System" src="/imagens/Design.png" />
 </h1>
 
 ###### Prototipo:
 <h5 align="center">
-  <img alt="Prototipo" title="#Prototipo" src="" />
+  <img alt="Prototipo" title="#Prototipo" src="/imagens/prototipação.png" />
 </h1>
 
 # Contribuição
