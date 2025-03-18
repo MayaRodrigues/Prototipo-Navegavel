@@ -1,5 +1,5 @@
 # Prototipo-Navegavel
-Porjeto proposto no ultimo desafio do curso Formação UX Designer - DIO.
+Projeto proposto no ultimo desafio do curso Formação UX Designer - DIO.
 
 # Descrição
 Este projeto apresenta um protótipo desenvolvido no Figma para um aplicativo móvel focado em práticas de meditação. O objetivo do aplicativo é oferecer uma experiência simples, intuitiva e acessível, servindo como uma plataforma versátil para a prática de diferentes formas de meditação, atendendo às diversas necessidades e preferências dos usuários.
